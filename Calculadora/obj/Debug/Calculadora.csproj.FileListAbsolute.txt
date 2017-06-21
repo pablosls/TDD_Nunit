@@ -1,0 +1,4 @@
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora\bin\Debug\Calculadora.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora\bin\Debug\Calculadora.pdb
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora\obj\Debug\Calculadora.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora\obj\Debug\Calculadora.pdb

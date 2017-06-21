@@ -1,0 +1,9 @@
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\Calculadora.Tests.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\Calculadora.Tests.pdb
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\obj\Debug\Calculadora.Tests.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\obj\Debug\Calculadora.Tests.pdb
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\Calculadora.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\Calculadora.pdb
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\obj\Debug\Calculadora.Tests.csprojResolveAssemblyReference.cache
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\nunit.framework.dll
+C:\cursos\Nunit\tdd\PROJETO_1\Calculadora.Tests\bin\Debug\nunit.framework.xml
