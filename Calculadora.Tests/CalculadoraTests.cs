@@ -26,7 +26,7 @@ namespace Calculadora.Tests
             public void DeveMultiplicarDoisNumeros()
             {
                 var sut = new CalculadoraSimples();
-				teste
+				
                 var resultado = sut.Multiplicar(5, 3);
                 
                 Assert.That(resultado, Is.EqualTo(15));
